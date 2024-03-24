@@ -7,6 +7,7 @@ Game Mechanics:
 Embark on your journey armed with 20 rounds of ammunition, prominently displayed in the top-left corner.
 Press the spacebar to launch projectiles from your character's position.
 Should you deplete your ammunition, fear not, for the game will swiftly reset after a brief 5-second interval.
+
 Lessons Acquired:
 Mastery of Blueprint fundamentals: nodes, pins.
 Grasped programming essentials: variables, strings, references, functions.
