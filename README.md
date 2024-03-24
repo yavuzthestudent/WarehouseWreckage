@@ -11,6 +11,7 @@ Press the spacebar to launch projectiles from your character's position.
 
 Should you deplete your ammunition, fear not, for the game will swiftly reset after a brief 5-second interval.
 
+.
 
 Lessons Acquired:
 
